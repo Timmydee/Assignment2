@@ -1,0 +1,10 @@
+.app{
+    width: 100%;
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+    /* background-image: url(../src/assets/pizza-30.jpg); */
+    opacity: 1;
+    
+}
+

@@ -1,0 +1,11 @@
+.user{
+    background-image: none;
+    background-color: antiquewhite;
+    padding: 1rem;
+    width: 100%;
+    text-align: center;
+}
+
+li{
+    list-style: none;
+}
